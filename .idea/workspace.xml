@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Game:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5e4e5b0-0f4b-4ab7-a285-8d39816fd26f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Handler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ball/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2414">
+              <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedImageLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/BufferedImageLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HUD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/HUD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ID.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/ID.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-218">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyInput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ball/KeyInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coll</find>
+      <find>add</find>
+      <find>graph</find>
+      <find>fram</find>
+      <find>windo</find>
+      <find>window</find>
+      <find>at</find>
+      <find>getIns</find>
+      <find>backg</find>
+      <find>load</find>
+      <find>haa</find>
+      <find>stat</find>
+      <find>lives</find>
+      <find>printl</find>
+      <find>print</find>
+      <find>scor</find>
+      <find>conf</find>
+      <find>score</find>
+      <find>keyi</find>
+      <find>lev</find>
+      <find>leve</find>
+      <find>key</find>
+      <find>grav</find>
+      <find>level</find>
+      <find>enum</find>
+      <find>ID</find>
+      <find>hudele</find>
+      <find>state</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/something/Okno.java" />
+        <option value="$PROJECT_DIR$/src/costam/Okno.java" />
+        <option value="$PROJECT_DIR$/src/costam/Window.java" />
+        <option value="$PROJECT_DIR$/src/something/Window.java" />
+        <option value="$PROJECT_DIR$/src/something/Target.java" />
+        <option value="$PROJECT_DIR$/src/something/ID.java" />
+        <option value="$PROJECT_DIR$/src/something/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/something/Goal.java" />
+        <option value="$PROJECT_DIR$/src/something/KeyInput.java" />
+        <option value="$PROJECT_DIR$/src/something/BufferedImageLoader.java" />
+        <option value="$PROJECT_DIR$/src/something/Game.java" />
+        <option value="$PROJECT_DIR$/src/something/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/something/Player.java" />
+        <option value="$PROJECT_DIR$/src/something/SpriteSheet.java" />
+        <option value="$PROJECT_DIR$/src/something/Texture.java" />
+        <option value="$PROJECT_DIR$/src/something/Handler.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Image.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Scanner.java" />
+        <option value="$PROJECT_DIR$/src/Ball/FileReader.java" />
+        <option value="$PROJECT_DIR$/src/Ball/FileScanner.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Portal.java" />
+        <option value="$PROJECT_DIR$/src/Ball/BufferedImageLoader.java" />
+        <option value="$PROJECT_DIR$/src/Ball/FpsBelt.java" />
+        <option value="$PROJECT_DIR$/src/Ball/HUD.java" />
+        <option value="$PROJECT_DIR$/src/Ball/LifeBonus.java" />
+        <option value="$PROJECT_DIR$/src/Ball/SpriteSheet.java" />
+        <option value="$PROJECT_DIR$/src/Ball/LevelBelt.java" />
+        <option value="$PROJECT_DIR$/src/Ball/LivesBelt.java" />
+        <option value="$PROJECT_DIR$/src/Ball/ScoreBelt.java" />
+        <option value="$PROJECT_DIR$/src/Ball/ID.java" />
+        <option value="$PROJECT_DIR$/src/Ball/PauseSign.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Goal.java" />
+        <option value="$PROJECT_DIR$/src/Ball/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Window.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Texture.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Scores.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Configurator.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Menu.java" />
+        <option value="$PROJECT_DIR$/src/Ball/KeyInput.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Player.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Handler.java" />
+        <option value="$PROJECT_DIR$/src/Ball/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1940" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ball" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="game" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ball.Game" />
+      <module name="Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ball.SpriteSheet" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e4e5b0-0f4b-4ab7-a285-8d39816fd26f" name="Default" comment="" />
+      <created>1522243942718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522243942718</updated>
+      <workItem from="1522243945310" duration="837000" />
+      <workItem from="1522247529372" duration="4149000" />
+      <workItem from="1522327771319" duration="9543000" />
+      <workItem from="1522392168348" duration="3812000" />
+      <workItem from="1522403184861" duration="8070000" />
+      <workItem from="1522425216534" duration="2604000" />
+      <workItem from="1522451426451" duration="1225000" />
+      <workItem from="1522763353847" duration="232000" />
+      <workItem from="1522782340087" duration="2778000" />
+      <workItem from="1522792766377" duration="10043000" />
+      <workItem from="1522840190597" duration="60000" />
+      <workItem from="1522841003783" duration="131000" />
+      <workItem from="1522856599429" duration="893000" />
+      <workItem from="1522869176955" duration="541000" />
+      <workItem from="1522874440497" duration="7440000" />
+      <workItem from="1522943791321" duration="2404000" />
+      <workItem from="1522947834255" duration="46000" />
+      <workItem from="1522960391870" duration="538000" />
+      <workItem from="1523009065931" duration="728000" />
+      <workItem from="1523034089282" duration="7586000" />
+      <workItem from="1523096262371" duration="191000" />
+      <workItem from="1523103772883" duration="344000" />
+      <workItem from="1523104282878" duration="1353000" />
+      <workItem from="1523108111481" duration="522000" />
+      <workItem from="1523195962626" duration="8533000" />
+      <workItem from="1523204619420" duration="1180000" />
+      <workItem from="1523207301333" duration="1042000" />
+      <workItem from="1523219051839" duration="2543000" />
+      <workItem from="1523221653593" duration="8459000" />
+      <workItem from="1523262200940" duration="116000" />
+      <workItem from="1523265470610" duration="750000" />
+      <workItem from="1523286201596" duration="15000" />
+      <workItem from="1523362619910" duration="1284000" />
+      <workItem from="1523363950799" duration="335000" />
+      <workItem from="1523365068907" duration="1929000" />
+      <workItem from="1523384157017" duration="1388000" />
+      <workItem from="1523388416555" duration="13109000" />
+      <workItem from="1523444498195" duration="1854000" />
+      <workItem from="1523448421783" duration="1261000" />
+      <workItem from="1523473656853" duration="656000" />
+      <workItem from="1523552181476" duration="5540000" />
+      <workItem from="1523609367772" duration="1487000" />
+      <workItem from="1524133909290" duration="125000" />
+      <workItem from="1524346236990" duration="1260000" />
+      <workItem from="1524429251200" duration="688000" />
+      <workItem from="1524940217098" duration="1292000" />
+      <workItem from="1525193913414" duration="1001000" />
+      <workItem from="1525429539381" duration="135000" />
+      <workItem from="1525430333410" duration="1074000" />
+      <workItem from="1525623899798" duration="9834000" />
+      <workItem from="1525634290516" duration="2126000" />
+      <workItem from="1525639246262" duration="4391000" />
+      <workItem from="1525647818505" duration="1163000" />
+      <workItem from="1525680377624" duration="1608000" />
+      <workItem from="1525682111267" duration="1858000" />
+      <workItem from="1525802650675" duration="828000" />
+      <workItem from="1526294949504" duration="738000" />
+      <workItem from="1526710189069" duration="5234000" />
+      <workItem from="1527332794896" duration="1317000" />
+      <workItem from="1527346353121" duration="172000" />
+      <workItem from="1527348253383" duration="20000" />
+      <workItem from="1529058167449" duration="20204000" />
+      <workItem from="1529147800016" duration="36091000" />
+      <workItem from="1529196340105" duration="67000" />
+      <workItem from="1529224486954" duration="256000" />
+      <workItem from="1529235515584" duration="5624000" />
+      <workItem from="1529241524801" duration="4754000" />
+      <workItem from="1529255975854" duration="2668000" />
+      <workItem from="1529260051051" duration="2403000" />
+      <workItem from="1529262511362" duration="677000" />
+      <workItem from="1529265591349" duration="199000" />
+      <workItem from="1529268732145" duration="2727000" />
+      <workItem from="1529306370552" duration="40000" />
+      <workItem from="1529306693332" duration="4896000" />
+      <workItem from="1529518076345" duration="101000" />
+      <workItem from="1530272165609" duration="54000" />
+      <workItem from="1530274690161" duration="1070000" />
+      <workItem from="1530276070992" duration="194000" />
+      <workItem from="1530282200516" duration="1401000" />
+      <workItem from="1530286160636" duration="1220000" />
+      <workItem from="1530371778381" duration="320000" />
+      <workItem from="1533209883415" duration="1113000" />
+      <workItem from="1533476626976" duration="670000" />
+      <workItem from="1538757243452" duration="249000" />
+      <workItem from="1539019157643" duration="603000" />
+      <workItem from="1548458414029" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="240134000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32478634" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.20176731" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="75" y="299" width="1386" height="218" id="Run" order="2" sideWeight="0.49731544" weight="0.20176731" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23825504" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24074075" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-10/lib/src.zip!/java.desktop/java/awt/event/ComponentAdapter.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Ball/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/KeyInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/ID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/ID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/FileScanner.java" />
+    <entry file="jar://C:/Java/jdk-10/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1622">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diagram.uml" />
+    <entry file="file://$PROJECT_DIR$/src/Ball/diagram.uml" />
+    <entry file="file://$PROJECT_DIR$/diagram.uml" />
+    <entry file="file://$PROJECT_DIR$/diag.uml" />
+    <entry file="uml://JAVA/Ball.Game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Ball.Game</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">Ball.Game</node>
+            <node x="" y="">java.awt.Canvas</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.lang.Runnable</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="279.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Portal.java" />
+    <entry file="uml://JAVA/Ball">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Ball</OriginalElement>
+          <nodes>
+            <node x="551.9670594756127" y="1055.0">Ball.KeyInput</node>
+            <node x="96.01360432330864" y="89.0">Ball.Menu</node>
+            <node x="769.3098539618278" y="767.0">Ball.LevelBelt</node>
+            <node x="274.3499138471182" y="0.0">Ball.SpriteSheet</node>
+            <node x="461.0851286871024" y="89.0">Ball.Window</node>
+            <node x="663.3098539618278" y="767.0">Ball.FpsBelt</node>
+            <node x="1004.0598539618278" y="767.0">Ball.ScoreBelt</node>
+            <node x="351.0995517640255" y="388.0">Ball.Game</node>
+            <node x="890.0598539618278" y="767.0">Ball.LivesBelt</node>
+            <node x="247.4847581694625" y="767.0">Ball.Goal</node>
+            <node x="649.0598539618278" y="89.0">Ball.ID</node>
+            <node x="186.16250000000014" y="388.0">Ball.GameObject</node>
+            <node x="531.4670594756127" y="966.0">Ball.Handler</node>
+            <node x="954.3723539618277" y="89.0">Ball.Configurator</node>
+            <node x="841.1848539618278" y="388.0">Ball.HUD</node>
+            <node x="311.73096202043575" y="89.0">Ball.Texture</node>
+            <node x="133.4847581694625" y="767.0">Ball.Obstacle</node>
+            <node x="478.53892483612924" y="767.0">Ball.Player</node>
+            <node x="425.0851286871024" y="0.0">Ball.BufferedImageLoader</node>
+            <node x="351.18475816946255" y="767.0">Ball.LifeBonus</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Ball.Game" target="Ball.Configurator">
+              <point x="36.46153846153845" y="-14.5" />
+              <point x="427.06109022556393" y="328.0" />
+              <point x="968.7473539618277" y="328.0" />
+              <point x="-43.125" y="14.5" />
+            </edge>
+            <edge source="Ball.Texture" target="Ball.SpriteSheet">
+              <point x="-32.625" y="-14.5" />
+              <point x="322.60596202043575" y="69.0" />
+              <point x="301.3499138471182" y="69.0" />
+              <point x="-27.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.GameObject">
+              <point x="-28.125" y="-14.5" />
+              <point x="548.3420594756127" y="906.0" />
+              <point x="122.98475816946245" y="906.0" />
+              <point x="122.98475816946245" y="687.0" />
+              <point x="212.07159090909113" y="687.0" />
+              <point x="-31.09090909090901" y="14.5" />
+            </edge>
+            <edge source="Ball.LevelBelt" target="Ball.Game">
+              <point x="-36.0" y="-14.5" />
+              <point x="781.3098539618278" y="497.0" />
+              <point x="413.6412184306921" y="497.0" />
+              <point x="23.04166666666663" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.ScoreBelt">
+              <point x="28.125" y="-14.5" />
+              <point x="604.5920594756127" y="906.0" />
+              <point x="1053.0598539618277" y="906.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.KeyInput" target="Ball.Configurator">
+              <point x="40.28571428571428" y="-14.5" />
+              <point x="639.252773761327" y="1035.0" />
+              <point x="1172.9704212454212" y="1035.0" />
+              <point x="1172.9704212454212" y="178.0" />
+              <point x="1064.5806872951612" y="178.0" />
+              <point x="52.70833333333337" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.LifeBonus">
+              <point x="-13.125" y="-14.5" />
+              <point x="563.3420594756127" y="866.0" />
+              <point x="400.68475816946255" y="866.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.FpsBelt">
+              <point x="9.375" y="-14.5" />
+              <point x="585.8420594756127" y="856.0" />
+              <point x="706.3098539618278" y="856.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Player" target="Ball.ID">
+              <point x="11.428571428571445" y="-14.5" />
+              <point x="529.9674962647007" y="727.0" />
+              <point x="631.8303017158286" y="727.0" />
+              <point x="631.8303017158286" y="308.0" />
+              <point x="676.9169968189707" y="308.0" />
+              <point x="-2.1428571428571104" y="14.5" />
+            </edge>
+            <edge source="Ball.Player" target="Ball.GameObject">
+              <point x="-22.857142857142776" y="-14.5" />
+              <point x="495.68178197898646" y="527.0" />
+              <point x="294.9806818181819" y="527.0" />
+              <point x="51.818181818181756" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.ID">
+              <point x="-35.625" y="-14.5" />
+              <point x="540.8420594756127" y="926.0" />
+              <point x="88.30039280894596" y="926.0" />
+              <point x="88.30039280894596" y="248.0" />
+              <point x="651.2027111046849" y="248.0" />
+              <point x="-27.85714285714289" y="14.5" />
+            </edge>
+            <edge source="Ball.Obstacle" target="Ball.Game">
+              <point x="37.59999999999991" y="-14.5" />
+              <point x="218.08475816946242" y="727.0" />
+              <point x="360.9745517640255" y="727.0" />
+              <point x="-29.625" y="14.5" />
+            </edge>
+            <edge source="Ball.ScoreBelt" target="Ball.HUD">
+              <point x="-24.5" y="-14.5" />
+              <point x="1028.5598539618277" y="447.0" />
+              <point x="903.2348539618278" y="447.0" />
+              <point x="25.549999999999983" y="14.5" />
+            </edge>
+            <edge source="Ball.Texture" target="Ball.BufferedImageLoader">
+              <point x="32.625" y="-14.5" />
+              <point x="387.85596202043575" y="59.0" />
+              <point x="466.0851286871024" y="59.0" />
+              <point x="-41.0" y="14.5" />
+            </edge>
+            <edge source="Ball.LifeBonus" target="Ball.Texture">
+              <point x="0.0" y="-14.5" />
+              <point x="400.68475816946255" y="577.0" />
+              <point x="330.16250000000014" y="577.0" />
+              <point x="330.16250000000014" y="238.0" />
+              <point x="342.8023905918643" y="238.0" />
+              <point x="-12.428571428571445" y="14.5" />
+            </edge>
+            <edge source="Ball.LevelBelt" target="Ball.HUD">
+              <point x="36.0" y="-14.5" />
+              <point x="853.3098539618278" y="747.0" />
+              <point x="866.7348539618279" y="747.0" />
+              <point x="-10.950000000000003" y="14.5" />
+            </edge>
+            <edge source="Ball.Menu" target="Ball.Handler">
+              <point x="-19.25" y="14.5" />
+              <point x="115.26360432330864" y="238.0" />
+              <point x="22.0" y="238.0" />
+              <point x="22.0" y="936.0" />
+              <point x="537.0920594756127" y="936.0" />
+              <point x="-39.375" y="-14.5" />
+            </edge>
+            <edge source="Ball.ScoreBelt" target="Ball.Configurator">
+              <point x="40.833333333333314" y="-14.5" />
+              <point x="1093.9079212454214" y="228.0" />
+              <point x="1026.2473539618277" y="228.0" />
+              <point x="14.375" y="14.5" />
+            </edge>
+            <edge source="Ball.Game" target="Ball.Handler">
+              <point x="-3.2916666666666288" y="14.5" />
+              <point x="387.30788509735885" y="557.0" />
+              <point x="460.68475816946255" y="557.0" />
+              <point x="460.68475816946255" y="856.0" />
+              <point x="567.0920594756127" y="856.0" />
+              <point x="-9.375" y="-14.5" />
+            </edge>
+            <edge source="Ball.ScoreBelt" target="Ball.Game">
+              <point x="-40.83333333333333" y="-14.5" />
+              <point x="1012.2265206284944" y="457.0" />
+              <point x="426.80788509735874" y="457.0" />
+              <point x="36.20833333333326" y="14.5" />
+            </edge>
+            <edge source="Ball.KeyInput" target="Ball.Handler">
+              <point x="-13.428571428571445" y="-14.5" />
+              <point x="585.5384880470413" y="1015.0" />
+              <point x="553.9670594756127" y="1015.0" />
+              <point x="-22.5" y="14.5" />
+            </edge>
+            <edge source="Ball.GameObject" target="Ball.ID">
+              <point x="-28.5" y="-14.5" />
+              <point x="214.66250000000014" y="278.0" />
+              <point x="664.0598539618278" y="278.0" />
+              <point x="-15.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Menu" target="Ball.Game">
+              <point x="19.25" y="14.5" />
+              <point x="153.76360432330864" y="188.0" />
+              <point x="366.2918594563332" y="188.0" />
+              <point x="-24.307692307692264" y="-14.5" />
+            </edge>
+            <edge source="Ball.Game" target="Ball.Menu">
+              <point x="-30.38461538461536" y="-14.5" />
+              <point x="360.2149363794101" y="198.0" />
+              <point x="140.93027098997527" y="198.0" />
+              <point x="6.416666666666629" y="14.5" />
+            </edge>
+            <edge source="Ball.LevelBelt" target="Ball.ID">
+              <point x="-12.0" y="-14.5" />
+              <point x="805.3098539618278" y="288.0" />
+              <point x="685.4884253903992" y="288.0" />
+              <point x="6.428571428571445" y="14.5" />
+            </edge>
+            <edge source="Ball.Game" target="Ball.KeyInput">
+              <point x="-36.20833333333337" y="14.5" />
+              <point x="354.3912184306921" y="717.0" />
+              <point x="108.23475816946245" y="717.0" />
+              <point x="108.23475816946245" y="1025.0" />
+              <point x="572.1099166184698" y="1025.0" />
+              <point x="-26.85714285714289" y="-14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.BufferedImageLoader">
+              <point x="39.375" y="-14.5" />
+              <point x="615.8420594756127" y="936.0" />
+              <point x="1136.2204212454212" y="936.0" />
+              <point x="1136.2204212454212" y="59.0" />
+              <point x="548.0851286871024" y="59.0" />
+              <point x="41.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.Obstacle">
+              <point x="-24.375" y="-14.5" />
+              <point x="552.0920594756127" y="896.0" />
+              <point x="180.4847581694625" y="896.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Obstacle" target="Ball.GameObject">
+              <point x="18.799999999999955" y="-14.5" />
+              <point x="199.28475816946246" y="707.0" />
+              <point x="232.79886363636388" y="707.0" />
+              <point x="-10.36363636363626" y="14.5" />
+            </edge>
+            <edge source="Ball.Goal" target="Ball.Game">
+              <point x="28.799999999999955" y="-14.5" />
+              <point x="312.28475816946246" y="737.0" />
+              <point x="367.55788509735885" y="737.0" />
+              <point x="-23.04166666666663" y="14.5" />
+            </edge>
+            <edge source="Ball.LifeBonus" target="Ball.ID">
+              <point x="39.59999999999991" y="-14.5" />
+              <point x="440.5995517640255" y="298.0" />
+              <point x="672.6312825332564" y="298.0" />
+              <point x="-6.428571428571445" y="14.5" />
+            </edge>
+            <edge source="Ball.FpsBelt" target="Ball.Game">
+              <point x="-32.25" y="-14.5" />
+              <point x="674.0598539618278" y="507.0" />
+              <point x="407.05788509735874" y="507.0" />
+              <point x="16.458333333333258" y="14.5" />
+            </edge>
+            <edge source="Ball.Obstacle" target="Ball.ID">
+              <point x="-18.799999999999955" y="-14.5" />
+              <point x="161.68475816946255" y="647.0" />
+              <point x="147.67539280894596" y="647.0" />
+              <point x="147.67539280894596" y="258.0" />
+              <point x="655.4884253903992" y="258.0" />
+              <point x="-23.571428571428555" y="14.5" />
+            </edge>
+            <edge source="Ball.Game" target="Ball.Texture">
+              <point x="0.0" y="-14.5" />
+              <point x="390.5995517640255" y="148.0" />
+              <point x="380.08810487757864" y="148.0" />
+              <point x="24.85714285714289" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.Goal">
+              <point x="-20.625" y="-14.5" />
+              <point x="555.8420594756127" y="886.0" />
+              <point x="283.4847581694625" y="886.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.Player">
+              <point x="-1.875" y="-14.5" />
+              <point x="574.5920594756127" y="836.0" />
+              <point x="491.8722581694626" y="836.0" />
+              <point x="-26.66666666666663" y="14.5" />
+            </edge>
+            <edge source="Ball.Player" target="Ball.Game">
+              <point x="-11.428571428571445" y="-14.5" />
+              <point x="507.1103534075578" y="517.0" />
+              <point x="400.4745517640255" y="517.0" />
+              <point x="9.875" y="14.5" />
+            </edge>
+            <edge source="Ball.HUD" target="Ball.ID">
+              <point x="-18.25" y="-14.5" />
+              <point x="859.4348539618278" y="278.0" />
+              <point x="689.7741396761135" y="278.0" />
+              <point x="10.714285714285666" y="14.5" />
+            </edge>
+            <edge source="Ball.FpsBelt" target="Ball.HUD">
+              <point x="32.25" y="-14.5" />
+              <point x="738.5598539618278" y="727.0" />
+              <point x="852.1348539618277" y="727.0" />
+              <point x="-25.549999999999997" y="14.5" />
+            </edge>
+            <edge source="Ball.KeyInput" target="Ball.ID">
+              <point x="13.428571428571388" y="-14.5" />
+              <point x="612.3956309041841" y="1015.0" />
+              <point x="1150.9704212454212" y="1015.0" />
+              <point x="1150.9704212454212" y="198.0" />
+              <point x="706.9169968189707" y="198.0" />
+              <point x="27.85714285714289" y="14.5" />
+            </edge>
+            <edge source="Ball.Goal" target="Ball.GameObject">
+              <point x="0.0" y="-14.5" />
+              <point x="283.4847581694625" y="617.0" />
+              <point x="243.16250000000014" y="617.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.LifeBonus" target="Ball.GameObject">
+              <point x="-19.799999999999955" y="-14.5" />
+              <point x="380.8847581694626" y="587.0" />
+              <point x="274.25340909090914" y="587.0" />
+              <point x="31.09090909090901" y="14.5" />
+            </edge>
+            <edge source="Ball.Game" target="Ball.Window">
+              <point x="12.153846153846189" y="-14.5" />
+              <point x="402.75339791787167" y="218.0" />
+              <point x="484.0851286871024" y="218.0" />
+              <point x="-23.0" y="14.5" />
+            </edge>
+            <edge source="Ball.Window" target="Ball.Game">
+              <point x="23.0" y="14.5" />
+              <point x="530.0851286871024" y="228.0" />
+              <point x="408.83032099479476" y="228.0" />
+              <point x="18.230769230769283" y="-14.5" />
+            </edge>
+            <edge source="Ball.LivesBelt" target="Ball.Game">
+              <point x="-39.16666666666663" y="-14.5" />
+              <point x="897.8931872951612" y="487.0" />
+              <point x="420.2245517640255" y="487.0" />
+              <point x="29.625" y="14.5" />
+            </edge>
+            <edge source="Ball.Goal" target="Ball.Texture">
+              <point x="-28.799999999999955" y="-14.5" />
+              <point x="254.68475816946255" y="637.0" />
+              <point x="164.66250000000014" y="637.0" />
+              <point x="164.66250000000014" y="228.0" />
+              <point x="330.37381916329286" y="228.0" />
+              <point x="-24.85714285714289" y="14.5" />
+            </edge>
+            <edge source="Ball.LivesBelt" target="Ball.ID">
+              <point x="7.833333333333314" y="-14.5" />
+              <point x="944.8931872951612" y="747.0" />
+              <point x="949.5598539618278" y="747.0" />
+              <point x="949.5598539618278" y="258.0" />
+              <point x="698.3455682475421" y="258.0" />
+              <point x="19.285714285714334" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.Game">
+              <point x="-16.875" y="-14.5" />
+              <point x="559.5920594756127" y="876.0" />
+              <point x="340.68475816946255" y="876.0" />
+              <point x="340.68475816946255" y="747.0" />
+              <point x="374.1412184306921" y="747.0" />
+              <point x="-16.45833333333337" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.LivesBelt">
+              <point x="24.375" y="-14.5" />
+              <point x="600.8420594756127" y="896.0" />
+              <point x="937.0598539618278" y="896.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.KeyInput" target="Ball.GameObject">
+              <point x="-40.285714285714334" y="-14.5" />
+              <point x="558.6813451898984" y="1035.0" />
+              <point x="11.0" y="1035.0" />
+              <point x="11.0" y="667.0" />
+              <point x="191.34431818181838" y="667.0" />
+              <point x="-51.818181818181756" y="14.5" />
+            </edge>
+            <edge source="Ball.Obstacle" target="Ball.Texture">
+              <point x="-37.59999999999991" y="-14.5" />
+              <point x="142.8847581694626" y="657.0" />
+              <point x="136.67539280894596" y="657.0" />
+              <point x="136.67539280894596" y="218.0" />
+              <point x="317.9452477347214" y="218.0" />
+              <point x="-37.285714285714334" y="14.5" />
+            </edge>
+            <edge source="Ball.LivesBelt" target="Ball.Configurator">
+              <point x="23.5" y="-14.5" />
+              <point x="960.5598539618278" y="747.0" />
+              <point x="967.1728021978023" y="747.0" />
+              <point x="967.1728021978023" y="358.0" />
+              <point x="997.4973539618277" y="358.0" />
+              <point x="-14.375" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.Configurator">
+              <point x="31.875" y="-14.5" />
+              <point x="608.3420594756127" y="916.0" />
+              <point x="1113.3662545787547" y="916.0" />
+              <point x="1113.3662545787547" y="218.0" />
+              <point x="1035.8306872951612" y="218.0" />
+              <point x="23.95833333333337" y="14.5" />
+            </edge>
+            <edge source="Ball.Game" target="Ball.BufferedImageLoader">
+              <point x="24.307692307692264" y="-14.5" />
+              <point x="414.90724407171774" y="238.0" />
+              <point x="563.5851286871024" y="238.0" />
+              <point x="563.5851286871024" y="69.0" />
+              <point x="520.751795353769" y="69.0" />
+              <point x="13.666666666666629" y="14.5" />
+            </edge>
+            <edge source="Ball.Player" target="Ball.Handler">
+              <point x="26.66666666666663" y="14.5" />
+              <point x="545.2055915027959" y="816.0" />
+              <point x="582.0920594756127" y="816.0" />
+              <point x="5.625" y="-14.5" />
+            </edge>
+            <edge source="Ball.Player" target="Ball.Texture">
+              <point x="0.0" y="-14.5" />
+              <point x="519.1817819789865" y="138.0" />
+              <point x="392.51667630615" y="138.0" />
+              <point x="37.28571428571422" y="14.5" />
+            </edge>
+            <edge source="Ball.LivesBelt" target="Ball.HUD">
+              <point x="-23.5" y="-14.5" />
+              <point x="913.5598539618278" y="477.0" />
+              <point x="888.6348539618277" y="477.0" />
+              <point x="10.949999999999989" y="14.5" />
+            </edge>
+            <edge source="Ball.Goal" target="Ball.ID">
+              <point x="-14.400000000000091" y="-14.5" />
+              <point x="269.0847581694624" y="627.0" />
+              <point x="175.66250000000014" y="627.0" />
+              <point x="175.66250000000014" y="268.0" />
+              <point x="659.7741396761135" y="268.0" />
+              <point x="-19.285714285714334" y="14.5" />
+            </edge>
+            <edge source="Ball.Player" target="Ball.Configurator">
+              <point x="34.285714285714334" y="-14.5" />
+              <point x="552.8246391218436" y="747.0" />
+              <point x="653.8303017158286" y="747.0" />
+              <point x="653.8303017158286" y="348.0" />
+              <point x="987.9140206284944" y="348.0" />
+              <point x="-23.958333333333314" y="14.5" />
+            </edge>
+            <edge source="Ball.ScoreBelt" target="Ball.ID">
+              <point x="8.166666666666686" y="-14.5" />
+              <point x="1061.2265206284944" y="747.0" />
+              <point x="1053.5390206284947" y="747.0" />
+              <point x="1053.5390206284947" y="248.0" />
+              <point x="702.6312825332564" y="248.0" />
+              <point x="23.571428571428555" y="14.5" />
+            </edge>
+            <edge source="Ball.LifeBonus" target="Ball.Game">
+              <point x="19.799999999999955" y="-14.5" />
+              <point x="420.4847581694625" y="567.0" />
+              <point x="380.7245517640255" y="567.0" />
+              <point x="-9.875" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.HUD">
+              <point x="16.875" y="-14.5" />
+              <point x="593.3420594756127" y="876.0" />
+              <point x="875.8098539618278" y="876.0" />
+              <point x="875.8098539618278" y="747.0" />
+              <point x="874.0348539618278" y="747.0" />
+              <point x="-3.6500000000000057" y="14.5" />
+            </edge>
+            <edge source="Ball.Handler" target="Ball.LevelBelt">
+              <point x="13.125" y="-14.5" />
+              <point x="589.5920594756127" y="866.0" />
+              <point x="817.3098539618278" y="866.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Ball.FpsBelt" target="Ball.ID">
+              <point x="-10.75" y="-14.5" />
+              <point x="695.5598539618278" y="298.0" />
+              <point x="681.2027111046849" y="298.0" />
+              <point x="2.1428571428571104" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="798.0" y="-131.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/FpsBelt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Goal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/LevelBelt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/LifeBonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/PauseSign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/SpriteSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="83" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/ScoreBelt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Obstacle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/LivesBelt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-10/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Texture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="153" column="144" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Configurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/KeyInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-10/lib/src.zip!/java.desktop/java/awt/event/ComponentListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-10/lib/src.zip!/java.desktop/java/awt/event/ComponentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Scores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1258">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/BufferedImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-218">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/HUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/ID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ball/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Game:jar2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Game</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>res</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
